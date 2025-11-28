@@ -1,0 +1,2 @@
+cd C:\Users\zenil\OneDrive\Desktop\university_course_management
+javac -d bin src\com\university\model\*.java src\com\university\service\*.java src\com\university\util\*.java src\com\university\exception\*.java src\com\university\Main.java

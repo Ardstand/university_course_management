@@ -65,14 +65,6 @@ This application manages a university's academic operations including:
 | Pattern Matching          | Student.java               | instanceof patterns          |
 | Sealed Classes            | Person sealed class        | Restricted inheritance       |
 
-### Extra Credit Features ✅
-
-| Feature                    | Java Version | Location          | Description              |
-| -------------------------- | ------------ | ----------------- | ------------------------ |
-| Unnamed Variables          | Java 22      | Main.java         | `_` for unused variables |
-| Unnamed Patterns           | Java 22      | Pattern matching  | Ignore components        |
-| String Templates (Preview) | Java 21      | Report generation | Template expressions     |
-
 ## Project Structure
 
 ```

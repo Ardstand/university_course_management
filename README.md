@@ -76,7 +76,7 @@ This application manages a university's academic operations including:
 ## Project Structure
 
 ```
-OOP1_Project/
+university_course_management/
 ├── README.md
 ├── REPORT.md                          # Comprehensive technical report
 ├── src/
@@ -121,7 +121,7 @@ OOP1_Project/
 ### Compile
 
 ```bash
-cd OOP1_Project
+cd university_course_management
 javac -d bin src/com/university/**/*.java src/com/university/*.java
 ```
 

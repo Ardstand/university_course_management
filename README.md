@@ -70,7 +70,6 @@ This application manages a university's academic operations including:
 ```
 university_course_management/
 ├── README.md
-├── REPORT.md                          # Comprehensive technical report
 ├── src/
 │   └── com/university/
 │       ├── Main.java                   # Application entry point
@@ -99,8 +98,6 @@ university_course_management/
 │           ├── EnrollmentException.java    # Checked exception
 │           ├── InvalidGradeException.java  # Unchecked exception
 │           └── CourseFullException.java    # Checked exception
-└── docs/
-    └── screenshots/                    # Application screenshots
 ```
 
 ## Compilation and Execution
